@@ -16,23 +16,30 @@ Samples of the App:
 - Login page
 ![login](https://github.com/nikola104/Phone-Shop/assets/94450955/d774e5a4-832e-4d5c-afd4-1372b6803f8a)
 
+
 - Register page
 ![register](https://github.com/nikola104/Phone-Shop/assets/94450955/d2ed474f-be54-4ac7-bf99-df65d44e8100)
+
 
 - Menu page
 ![menuPage](https://github.com/nikola104/Phone-Shop/assets/94450955/bd62b57b-2110-407e-a184-ce0c31d4b4f1)
 
+
 - Adding Product
 ![addProducts](https://github.com/nikola104/Phone-Shop/assets/94450955/d4f6e47f-32bd-41ba-9978-a0c5a0de97a7)
+
 
 - User Products
 ![myProducts](https://github.com/nikola104/Phone-Shop/assets/94450955/253c0d4d-ca2d-4669-9af7-6499ee95d1d4)
 
+
 - All products
 ![products](https://github.com/nikola104/Phone-Shop/assets/94450955/689288a3-5889-4341-8552-7f7638e3087f)
 
+
 - User wallet
 ![wallet](https://github.com/nikola104/Phone-Shop/assets/94450955/9a3dea0e-d7ea-4cdd-8f86-160d54cbb38b)
+
 
 
 
