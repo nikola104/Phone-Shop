@@ -2,7 +2,7 @@
 The application was created with the goal of creating a store
 for selling phones. Anyone can register and
 to sell his phone. Having the option to see his own
-phones on sale and general, to deposit and withdraw money
+phones on sale and general, to deposit and withdraw virtual money
 in/from the app.
 
 Technologies in the Application
