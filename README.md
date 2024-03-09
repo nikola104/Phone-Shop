@@ -8,8 +8,8 @@ in/from the app.
 Technologies in the Application
 The application is written in JAVA (NetBeans):
 1. Object Oriented Programming;
-2. Database – MySQL;
-3. JAVA SWING (GUI)
+2. Database – MySQL;. 
+3JAVA SWING (GUI)
 
 Samples of the App:
 
